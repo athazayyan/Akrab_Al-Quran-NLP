@@ -1,4 +1,6 @@
 streamlit
-sentence_transformers
-faiss
+sentence-transformers
+faiss-cpu
 numpy
+torch
+transformers
